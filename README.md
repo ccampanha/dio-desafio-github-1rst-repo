@@ -5,4 +5,7 @@ A DIO é uma plataforma de ensino gratuita que disponibiliza cursos e projetos d
 
 # Links Uteis
 [Ste da DIO](https://www.markdownguide.org/basic-syntax/)
+A DIO é uma plataforma de ensino gratuita que disponibiliza cursos e projetos de diversas empresas de tecnologia para estudantes.
+
 [Sintaxe básica do Markdown](https://digitalinnovation.one/)
+ 
