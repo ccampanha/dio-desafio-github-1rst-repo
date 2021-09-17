@@ -4,8 +4,8 @@ Desafio do módulo de GIT/GITHUB que faz parte de bootcamp da plataforma DIO (Di
 A DIO é uma plataforma de ensino gratuita que disponibiliza cursos e projetos de diversas empresas de tecnologia para estudantes.
 
 # Links Uteis
-[Ste da DIO](https://www.markdownguide.org/basic-syntax/)
-A DIO é uma plataforma de ensino gratuita que disponibiliza cursos e projetos de diversas empresas de tecnologia para estudantes.
+[DIO - Digital Inovation ONe ](https://www.markdownguide.org/basic-syntax/) 
+DIO é uma plataforma de ensino gratuita que disponibiliza cursos e projetos de diversas empresas de tecnologia para estudantes. 
 
 [Sintaxe básica do Markdown](https://digitalinnovation.one/)
  
